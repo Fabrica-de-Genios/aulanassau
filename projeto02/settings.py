@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure---a--h7pd&*s#m**wzs$n8e=vo1+nk1_u@$m^&0ez(u0*8jxu+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['blog.hiveble.com']
 
 
 # Application definition
