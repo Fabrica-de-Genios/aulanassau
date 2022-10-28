@@ -7,6 +7,6 @@ services:
       context: .
       dockerfile: ./Dockerfile
     ports:
-      - 8000:8000
+      - 8888:8000
     volumes:
       - ./db.sqlite3:/app/db.sqlite3
